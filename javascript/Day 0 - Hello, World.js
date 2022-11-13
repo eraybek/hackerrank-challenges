@@ -1,4 +1,4 @@
-// Day 0: Hello, World!
+// Day 0: Hello, World! (10 Days of Javascript)
 
 /* Task
 

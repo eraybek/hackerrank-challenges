@@ -1,4 +1,4 @@
-// Day 3: Intro to Conditional Statements
+// Day 3: Intro to Conditional Statements (30 Days of Code)
 
 /* Task
 Given an integer, n , perform the following conditional actions:

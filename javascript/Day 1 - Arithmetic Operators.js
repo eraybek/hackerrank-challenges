@@ -1,4 +1,4 @@
-// Day 1: Arithmetic Operators
+// Day 1: Arithmetic Operators (10 Days of Javascript)
 
 /* Task
 

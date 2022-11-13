@@ -1,4 +1,4 @@
-// Day 2: Conditional Statements: Switch
+// Day 2: Conditional Statements: Switch (10 Days of Javascript)
 
 /* Task
 
