@@ -1,6 +1,6 @@
 <h1>"# hackerrank-challenges"</h1>
 
-  <ul><h2>Challenges:</h2>
+  <ul><h2> Javascript Challenges:</h2>
     <li>
       <h4>10 Days of Javascript</h4>
       <ul>
