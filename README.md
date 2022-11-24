@@ -5,32 +5,32 @@
       <h4>10 Days of Javascript</h4>
       <ul>
         <li>           
-          <a href="./Day 0 - Hello, World.js">
+          <a href="javascript/Day 0 - Hello, World.js">
             Day 0 - Hello, World
           </a>
         </li>
         <li>
-          <a href="Day 1 - Arithmetic Operators.js">
+          <a href="javascript/Day 1 - Arithmetic Operators.js">
             Day 1 - Arithmetic Operators
           </a>
         </li>
         <li>
-          <a href="Day 1 - Functions.js">
+          <a href="javascript/Day 1 - Functions.js">
             Day 1 - Functions
           </a>
         </li>
         <li>
-          <a href="Day 2 - Conditional Statements - Switch.js">
+          <a href="javascript/Day 2 - Conditional Statements - Switch.js">
             Day 2 - Conditional Statements - Switch
           </a>
         </li>
         <li>
-          <a href="Day 2 - Loops.js">
+          <a href="javascript/Day 2 - Loops.js">
             Day 2 - Loops
           </a>
         </li>
         <li>
-          <a href="Day 3 - Arrays.js">
+          <a href="javascript/Day 3 - Arrays.js">
             Day 3 - Arrays
           </a>
         </li>
@@ -40,7 +40,7 @@
       <h4>30 Days of Code</h4>
       <ul>
         <li>
-          <a href="Day 3 - Intro to Conditional Statements.js">
+          <a href="javascript/Day 3 - Intro to Conditional Statements.js">
             Day 3 - Intro to Conditional Statements
           </a>
         </li>
